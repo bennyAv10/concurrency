@@ -21,6 +21,7 @@
   <url>http://maven.apache.org</url>
 
   <dependencies>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -51,7 +52,7 @@
       <version>2.4.0</version>
     </dependency>
 
-    </dependencies>
+  </dependencies>
 
 
 </project>
